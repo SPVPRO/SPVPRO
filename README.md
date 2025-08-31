@@ -27,6 +27,7 @@ Hello! I’m SPVPRO, passionate about building robust backend systems and explor
 ### 🗄️ Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" alt="MySQL/SQL"/>
+  <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" height="36" alt="Postgresql/SQL"/>
 </p>
 
 ### ⚛️ Frameworks & Libraries
