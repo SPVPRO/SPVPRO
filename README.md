@@ -23,7 +23,7 @@ Hello! I’m SPVPRO, passionate about building robust backend systems and explor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="36" alt="Python"/>
   <img
-src="https://en.m.wikipedia.org/wiki/File:Flask_logo.svg" height="36"
+src="[https://en.m.wikipedia.org/wiki/File:Flask_logo.svg](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)" height="36"
 alt="Flask"/>
 </p>
 
