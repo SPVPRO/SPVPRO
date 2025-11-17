@@ -22,9 +22,9 @@ Hello! I’m SPVPRO, passionate about building robust backend systems and explor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="36" alt="Python"/>
-  <img
-src="https://img.icons8.com/ios/50/flask.png" height="36"
+  <img src="https://img.icons8.com/ios/50/flask.png" height="36"
 alt="Flask"/>
+<img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="36" alt="c#"/>
 </p>
 
 ### 🗄️ Databases
