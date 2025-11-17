@@ -36,6 +36,7 @@ alt="Flask"/>
 ### ⚛️ Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="36" alt="React"/>
+  <img src="https://www.svgrepo.com/show/376369/dotnet.svg" height="36" alt".Net framework"/>
 </p>
 
 ### 🛠️ Tools
