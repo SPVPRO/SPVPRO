@@ -1,74 +1,171 @@
-# 👨‍💻 SPVPRO – Backend Developer & Aspiring Ethical Hacker
+<div align="center">
 
-Hello! I’m SPVPRO, passionate about building robust backend systems and exploring the world of ethical hacking. I believe in creating secure, scalable applications while always learning new technologies and best practices.
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=SPVPRO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Aspiring+Ethical+Hacker+%F0%9F%94%90;Secure+Code+is+Quality+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=SPVPRO&label=Profile+Views&color=00d4ff&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-SPVPRO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPVPRO)
+[![Open Source](https://img.shields.io/badge/Open_Source-Enthusiast-7c3aed?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/SPVPRO)
+
+</div>
 
 ---
 
-## 🚀 Skills & Technologies
+## 🧑‍💻 About Me
 
-### 🖥️ Frontend
+```python
+class SPVPRO:
+    name       = "SPVPRO"
+    role       = ["Backend Developer", "Aspiring Ethical Hacker"]
+    focus      = ["Secure Systems", "Scalable Architectures", "Vulnerability Research"]
+    learning   = ["Python Scripting", "Advanced SQL", "React", "CTF Challenges"]
+    philosophy = "Secure code is quality code."
+
+    def current_mission(self):
+        return "Building the future, one secure backend at a time 🔐"
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="36" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="36" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="36" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🖥️ Backend
+### ⚙️ Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="36" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="36" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="36" alt="Python"/>
-  <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" height="36"
-alt="Flask"/>
-<img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="36" alt="c#"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" alt="MySQL/SQL"/>
-  <img src="https://wiki.postgresql.org/images/9/9a/PostgreSQL_logo.3colors.540x557.png" height="36" alt="Postgresql/SQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ⚛️ Frameworks & Libraries
+### 📦 Frameworks & Libraries
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="36" alt="React"/>
-  <img src="https://www.svgrepo.com/show/376369/dotnet.svg" height="36" alt".Net framework"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
+### 🛠️ Tools & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="36" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- **Backend Development:** Building APIs, server-side logic, and scalable web architectures.
-- **Ethical Hacking:** Learning to identify and patch vulnerabilities, focusing on secure coding.
-- **Continuous Learning:** Adding Python, SQL, and React to my tech stack.
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔧 Backend Dev
+Building production-grade APIs, scalable architectures, and server-side logic using Node.js, Python, and .NET.
+
+</td>
+<td width="33%" align="center">
+
+### 🔐 Ethical Hacking
+Learning to identify and patch vulnerabilities, practicing secure coding patterns, and gearing up for CTF challenges.
+
+</td>
+<td width="33%" align="center">
+
+### 📚 Continuous Learning
+Deepening skills in Python scripting, advanced SQL, modern React development, and security best practices.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌱 Learning Roadmap
 
-- Mastering Python for scripting and automation
-- Deepening SQL knowledge for database management and security
-- Diving into React for modern frontend development
-- Practicing ethical hacking techniques and participating in CTFs and bug bounty programs
+```
+2025 ──────────────────────────────────────────────────────────────►
+
+  [✅] Node.js API Development
+  [✅] Database Design (MySQL, PostgreSQL)
+  [🔄] Python for Scripting & Automation ──────► In Progress
+  [🔄] Advanced SQL & DB Security ─────────────► In Progress
+  [🔄] React – Modern Frontend Development ────► In Progress
+  [🔄] Ethical Hacking & CTF Challenges ───────► In Progress
+  [🎯] Bug Bounty Programs ────────────────────► Coming Soon
+  [🎯] Cloud & DevOps Fundamentals ────────────► Coming Soon
+```
 
 ---
 
-## 📫 Let’s Connect!
+## 📊 GitHub Stats
 
-- [GitHub](https://github.com/SPVPRO)
-- Feel free to reach out for collaboration, learning together, or discussing backend and security topics!
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SPVPRO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPVPRO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="40%" />
+
+</div>
 
 ---
 
-> _“Secure code is quality code.”_ – Building the future, one secure backend at a time.
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SPVPRO&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@SPVPRO-181717?style=for-the-badge&logo=github)](https://github.com/SPVPRO)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+**Open to:** collaborations · backend projects · security research · learning together
+
+</div>
+
+---
+
+<div align="center">
+
+> _"Secure code is quality code."_
+>
+> **Building the future, one secure backend at a time.** 🔐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" width="100%" />
+
+</div>
