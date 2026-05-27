@@ -125,34 +125,20 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SPVPRO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" width="48%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPVPRO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="40%" />
-
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SPVPRO&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
 
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SPVPRO-181717?style=for-the-badge&logo=github)](https://github.com/SPVPRO)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerpv2395@gmail.com)
 
 **Open to:** collaborations · backend projects · security research · learning together
 
