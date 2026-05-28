@@ -138,7 +138,7 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SPVPRO-181717?style=for-the-badge&logo=github)](https://github.com/SPVPRO)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerpv2395@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spv23095@gmail.com)
 
 **Open to:** collaborations · backend projects · security research · learning together
 
