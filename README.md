@@ -124,10 +124,9 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" />
-
+    <img src="https://streak-stats.demolab.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak Stats" />
 </div>
+
 
 
 ---
