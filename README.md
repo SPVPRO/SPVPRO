@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=SPVPRO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=SPVPRO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Aspiring%20Ethical%20Hacker"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Aspiring+Ethical+Hacker+%F0%9F%94%90;Secure+Code+is+Quality+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Aspiring+Ethical+Hacker;Secure+Code+is+Quality+Code;CTF+Enthusiast"/>
 </a>
 
 <br/>
@@ -127,10 +127,7 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
     <img src="https://streak-stats.demolab.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak Stats" />
 </div>
 
-
-
 ---
-
 
 ## 📫 Let's Connect
 
