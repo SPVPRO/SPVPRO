@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=SPVPRO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=SPVPRO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Ethical%20Hacker"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Aspiring+Ethical+Hacker;Secure+Code+is+Quality+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Aspiring+Ethical+Hacker;Secure+Code+is+Quality+Code"/>
 </a>
 
 <br/>
@@ -121,15 +121,14 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=SPVPRO&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=e0e0e0" width="48%" alt="GitHub Stats" />
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
+**Contributions & Statistics**
+- 🔗 Visit my [GitHub Profile](https://github.com/SPVPRO) to see live stats and contributions
+- 📈 Track my journey through commits, issues, and pull requests
+- ⭐ Explore my repositories for projects and learning resources
 
 </div>
 
