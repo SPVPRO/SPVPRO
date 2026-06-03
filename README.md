@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=SPVPRO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Aspiring%20Ethical%20Hacker"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=SPVPRO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Aspiring+Ethical+Hacker;Secure+Code+is+Quality+Code;CTF+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Aspiring+Ethical+Hacker" />
 </a>
 
 <br/>
@@ -124,7 +124,7 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=SPVPRO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak Stats"/>
 </div>
 
 ---
