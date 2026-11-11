@@ -26,7 +26,7 @@ class SPVPRO:
     name       = "SPVPRO"
     role       = ["Backend Developer", "Aspiring Ethical Hacker"]
     focus      = ["Secure Systems", "Scalable Architectures", "Vulnerability Research"]
-    learning   = ["Python Scripting", "Advanced SQL", "React", "CTF Challenges"]
+    learning   = ["Python Scripting", "Advanced SQL", "Next.js & React", "CTF Challenges"]
     philosophy = "Secure code is quality code."
 
     def current_mission(self):
@@ -49,11 +49,13 @@ class SPVPRO:
 ### ⚙️ Backend
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
@@ -61,18 +63,22 @@ class SPVPRO:
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 📦 Frameworks & Libraries
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools, Embedded & DevOps
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino_IDE_(C/C++)-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
@@ -84,7 +90,7 @@ class SPVPRO:
 <td width="33%" align="center">
 
 ### 🔧 Backend Dev
-Building production-grade APIs, scalable architectures, and server-side logic using Node.js, Python, and .NET.
+Building production-grade APIs, scalable architectures, and server-side logic using Node.js, Express, FastAPI, and .NET.
 
 </td>
 <td width="33%" align="center">
@@ -96,7 +102,7 @@ Learning to identify and patch vulnerabilities, practicing secure coding pattern
 <td width="33%" align="center">
 
 ### 📚 Continuous Learning
-Deepening skills in Python scripting, advanced SQL, modern React development, and security best practices.
+Deepening skills in Python scripting, SQL & NoSQL databases, modern React/Next.js development, and security best practices.
 
 </td>
 </tr>
@@ -106,14 +112,14 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
 
 ## 🌱 Learning Roadmap
 
-```
+```text
 2025 ──────────────────────────────────────────────────────────────►
 
-  [✅] Node.js API Development
-  [✅] Database Design (MySQL, PostgreSQL)
-  [🔄] Python for Scripting & Automation ──────► In Progress
+  [✅] Node.js & Express.js API Development
+  [✅] Database Design (MySQL, PostgreSQL, MongoDB)
+  [🔄] Python (FastAPI, Streamlit & Scripting) ─► In Progress
   [🔄] Advanced SQL & DB Security ─────────────► In Progress
-  [🔄] React – Modern Frontend Development ────► In Progress
+  [🔄] React & Next.js – Modern Frontend ──────► In Progress
   [🔄] Ethical Hacking & CTF Challenges ───────► In Progress
   [🎯] Bug Bounty Programs ────────────────────► Coming Soon
   [🎯] Cloud & DevOps Fundamentals ────────────► Coming Soon
@@ -124,6 +130,15 @@ Deepening skills in Python scripting, advanced SQL, modern React development, an
 ## 📊 GitHub Activity
 
 <div align="center">
+
+<!-- GitHub Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SPVPRO/SPVPRO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SPVPRO/SPVPRO/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SPVPRO/SPVPRO/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
 
 **Contributions & Statistics**
 - 🔗 Visit my [GitHub Profile](https://github.com/SPVPRO) to see live stats and contributions
