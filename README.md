@@ -52,13 +52,13 @@ motto      = "Secure code is quality code. 🔐"
     <td width="45%" valign="top">
       <h3>⚡ Operational Domains</h3>
       <ul>
-        <li><b>⚙️ High-Velocity Backends</b><br/><sub>Designing async microservices, RESTful APIs, and scalable server logic using <b>FastAPI, Express.js, Node.js, and .NET</b>.</sub></li>
+        <li><b>⚙️ High-Velocity Backends</b><br/><sub></sub></li>
         <br/>
-        <li><b>🤖 MLOps & Model Deployment</b><br/><sub>Building ML pipelines, serving models through APIs, tracking experiments, and automating training and release workflows.</sub></li>
+        <li><b>🤖 MLOps & Model Deployment</b><br/><sub></sub></li>
         <br/>
-        <li><b>🌐 Modern Web & Data Apps</b><br/><sub>Shipping reactive interfaces with <b>Next.js & React</b> and interactive data dashboards with <b>Streamlit</b>.</sub></li>
+        <li><b>🌐 Modern Web & Data Apps</b><br/><sub></sub></li>
         <br/>
-        <li><b>🔌 Hardware & Embedded Systems</b><br/><sub>Writing bare-metal and microcontroller logic in <b>C/C++ via Arduino IDE</b>.</sub></li>
+        <li><b>🔌 Hardware & Embedded Systems</b><br/><sub></sub></li>
       </ul>
     </td>
   </tr>
