@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ======================== HERO BANNER ======================== -->
-<img src="./banner.svg" width="100%" alt="SPVPRO Banner" />
+<img src="banner.svg" width="100%" alt="SPVPRO Banner" />
 
 <!-- ======================== TYPING TERMINAL ======================== -->
 <a href="https://github.com/SPVPRO">
